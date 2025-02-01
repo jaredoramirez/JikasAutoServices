@@ -1,0 +1,58 @@
+/* ==========================
+  MEDIA QUERIES
+========================== */
+@media (max-width: 2500px) {
+    /* .heroMovieInfo {
+        height: 800px;
+    }  */
+}
+@media (max-width: 1380px) {
+
+    
+}
+
+@media (max-width: 1260px) {
+
+  }
+
+@media (max-width: 1200px) {
+    hero h1 {
+        line-height: 52px;
+        font-size: 36px;
+    }
+}
+
+@media (max-width: 992px) {
+    
+
+}
+
+@media (max-width: 768px) {
+  .col-10 {
+    width: 100%;
+}
+
+}
+
+@media (max-width: 540px) {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    
+    footer {
+        padding-bottom: 10em;
+    }
+
+    
+
+
+}
+@media (max-width: 480px) {
+    
+}
+@media (max-width: 320px) {
+
+
+}  
+  
